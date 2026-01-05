@@ -7,6 +7,7 @@ In this repository I will be experementing new features of java. Meanwhile, leav
 ## Resource
 
  - [Java](https://openjdk.org/projects/jdk/25/)
+ - [Conversation with Claude on JDK 25](https://claude.ai/chat/1ef78289-3bdc-4cba-8cac-58c8f2cb9a26) 
 
 ## 📜 License
 
